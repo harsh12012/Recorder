@@ -111,3 +111,5 @@ function Signup() {
 }
 
 export default Signup;
+
+//git remote set-url origin https://harsh12012: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@github.com/harsh12012/recorder.git
